@@ -1,0 +1,7 @@
+def reverse(filenamein, filenameout):
+    f = open(filenamein, "rb")
+    s = f.read()
+    f.close()
+    f = open(filenameout, "wb")
+    f.write(s[::-1])
+    f.close()
