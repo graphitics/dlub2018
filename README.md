@@ -3,6 +3,12 @@
 
 Deep Learning UB 2018 зуны сургалтаар үзсэн хичээлийн хүрээнд төгсөлтийн ажил болгон хийсэн төслийн үр дүнгээ [Б.Гэрэлтуяа](https://github.com/qerelt), [Б.Янжинлхам](https://github.com/yanjinlkham) бид хоёр танилцуулж байна. Манай багийн гол зорилго нь Recurrent Neural Network-ийг кирилл үсэгт Монгол текстээр сургах байв. Бид нэг суурь кодыг[1] таван ялгаатай сургалтын датан дээр сургаснаас хоёр нь үр дүн муутай байсан, харин бусад гурав нь тодорхой үр дүнг үзүүлсэн.
 
+Сургалтын дата, ашигласан кодыг энэ repository-д байрлуулсан: https://github.com/Graphitics/dlub2018
+
+Харин үр дүнгүүдийг (checkpoint files, log, accuracy, loss screenshots)-ыг энд байрлуулсан: https://drive.google.com/drive/folders/14O8Oj4SYQypaEMb3lhirFi_X5F6DLfcA?usp=sharing
+
+Төсөлт ажлын танилцуулгын уншихад эвтэйхэн байдлыг бодолцож Medium дээр бас байрлуулсан: https://medium.com/graphitics/dlub2018-graphitics-dc888b1adcc1
+
 ## Яагаад энэ төсөлт ажлыг хийхээр сонгосон бэ?
 Зуны сургалтаар Deep Learning судалж байхад, ялангуяа RNN сэдвийг үзэхэд олон төрлийн асуулт бидэнд төрсөн. Төсөлт ажлаа тэдгээрийн хариуг эрэн эхлүүлсэн ба бидэнд Deep Learning чиглэлээр дадлага бага тул энэ ажлаар өөрсдөдөө туршлага үлдээхийг зорьсон.
 
@@ -123,10 +129,6 @@ ALPHASIZE = 169, бүхлээр сургасан, validation хийгээгүй,
 ---
 
 Бас багийн гишүүдийн өмнөөс төсөлт ажлын туслах [Энхжаргал](https://github.com/jargalart)даа баярлалаа!
-
-Сургалтын дата, ашигласан кодыг энэ repository-д байрлуулсан: https://github.com/Graphitics/dlub2018
-
-Харин үр дүнгүүдийг (checkpoint files, log, accuracy, loss screenshots)-ыг энд байрлуулсан: https://drive.google.com/drive/folders/14O8Oj4SYQypaEMb3lhirFi_X5F6DLfcA?usp=sharing
 
 ---
 
