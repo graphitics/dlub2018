@@ -5,7 +5,7 @@ Deep Learning UB 2018 зуны сургалтаар үзсэн хичээлий�
 
 Сургалтын дата, ашигласан кодыг энэ repository-д байрлуулсан: https://github.com/Graphitics/dlub2018
 
-Харин үр дүнгүүдийг (checkpoint files, log, accuracy, loss screenshots)-ыг энд байрлуулсан: https://drive.google.com/drive/folders/14O8Oj4SYQypaEMb3lhirFi_X5F6DLfcA?usp=sharing
+Харин үр дүнгүүдийг (checkpoint files, log, accuracy, loss screenshots)-ыг энд байрлуулсан: https://drive.google.com/drive/folders/1as8RKdpIzfES4JvMz8pFsBLvT4UtpMMs?usp=sharing
 
 Төсөлт ажлын танилцуулгын уншихад эвтэйхэн байдлыг бодолцож Medium дээр бас байрлуулсан: https://medium.com/graphitics/dlub2018-graphitics-dc888b1adcc1
 
